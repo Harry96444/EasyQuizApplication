@@ -21,12 +21,12 @@ Displaying instant quiz score after completion is highlight of this project. Ora
  • Students can View individual Results 🏆 <br>
  • Admin can view all students score👥 <br>
  • Admin can Set paper📄<br>
- • Admin can Edit paper of its choice 📋
+ • Admin can Edit paper of its choice 📋<br>
  • Admin and Students having different user     
-    interface.🔐
+    interface.🔐<br>
  • Oracle database connectivity for better   
-    Data handling 🛡️ 
+    Data handling 🛡️ <br>
  • Time Constrainted test through  
-    Multithreading🕘
+    Multithreading🕘<br>
     
     
