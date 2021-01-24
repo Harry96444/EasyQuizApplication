@@ -10,9 +10,12 @@ Displaying instant quiz score after completion is highlight of this project. Ora
 
  • Admin panel 👤
  
+ 
  • Student panel👨‍🏫
+ 
 
  • Features 🛑
+ 
  
  • Students can give Test🖥️
  • Students can View individual Results 🏆
