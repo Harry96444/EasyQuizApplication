@@ -7,3 +7,23 @@ Authentic Login and Logout panel for both admin and user. Quiz is prepared by Ad
 Displaying instant quiz score after completion is highlight of this project. Oracle database is used for storing objective type questions.
 
 ![EasyQuizApp](https://media.giphy.com/media/sfGlfucyRNM1kqGkBK/giphy.gif)
+
+ • Admin panel 👤
+ 
+ • Student panel👨‍🏫
+
+ • Features 🛑
+ 
+ • Students can give Test🖥️
+ • Students can View individual Results 🏆
+ • Admin can view all students score👥
+ • Admin can Set paper📄
+ • Admin can Edit paper of its choice 📋
+ • Admin and Students having different user     
+    interface.🔐
+ • Oracle database connectivity for better   
+    Data handling 🛡️ 
+ • Time Constrainted test through  
+    Multithreading🕘
+    
+    
