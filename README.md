@@ -17,10 +17,10 @@ Displaying instant quiz score after completion is highlight of this project. Ora
  • Features 🛑
  
  
- • Students can give Test🖥️
- • Students can View individual Results 🏆
- • Admin can view all students score👥
- • Admin can Set paper📄
+ • Students can give Test🖥️ <br>
+ • Students can View individual Results 🏆 <br>
+ • Admin can view all students score👥 <br>
+ • Admin can Set paper📄<br>
  • Admin can Edit paper of its choice 📋
  • Admin and Students having different user     
     interface.🔐
