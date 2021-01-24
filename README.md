@@ -1,4 +1,4 @@
-EasyQuizApplication
+# Easy Quiz Application
 An User Friendly Quiz Application where you can give Test as a student and Set or access different Functions as a Admin.
 It is a java based | Multithreaded | Swing Quiz Application| . You can give here tests related to any thing whatever 
 admin has prepared test for you. and then the results are stored in | Oracle Database | 
